@@ -1,7 +1,7 @@
 ---
 galaxy_info:
   namespace: vbotka
-  role_name: nginx
+  role_name: freebsd_nginx
   author: Vladimir Botka
   description: Install, configure, and run Nginx.
   company: https://botka.info
