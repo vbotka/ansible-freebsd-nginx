@@ -5,6 +5,19 @@ vbotka.freebsd_nginx 1.0 Release Notes
 .. contents:: Topics
 
 
+1.0.2
+=====
+
+Release Summary
+---------------
+
+Major Changes
+-------------
+
+Minor Changes
+-------------
+
+
 1.0.1
 =====
 
@@ -17,12 +30,6 @@ Major Changes
 
 Minor Changes
 -------------
-
-Bugfixes
---------
-
-Breaking Changes / Porting Guide
---------------------------------
 
 
 1.0.0
