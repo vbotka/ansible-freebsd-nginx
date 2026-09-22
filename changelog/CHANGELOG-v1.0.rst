@@ -10,13 +10,14 @@ vbotka.freebsd_nginx 1.0 Release Notes
 
 Release Summary
 ---------------
+Update template default.j2
 
 Major Changes
 -------------
 
 Minor Changes
 -------------
-
+* Update template default.j2; Filter dict_to_ast moved to to_ast.
 
 1.0.1
 =====
